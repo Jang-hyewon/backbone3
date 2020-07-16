@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2020-07-04T09:28:30.714Z","userMetadata":{},"modelName":"my-pose-model","labels":["척추3.차렷","척추3.스쿼트","척추3.(wrong)허리 굽힘","척추3.(wrong)무릎앞"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
